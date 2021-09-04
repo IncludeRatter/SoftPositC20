@@ -1,0 +1,3 @@
+[submodule "third_party/itsy_bitsy"]
+	path = third_party/itsy_bitsy
+	url = https://github.com/ThePhD/itsy_bitsy
