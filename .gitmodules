@@ -1,3 +1,6 @@
 [submodule "third_party/itsy_bitsy"]
 	path = third_party/itsy_bitsy
 	url = https://github.com/ThePhD/itsy_bitsy
+[submodule "third_party/gcem"]
+	path = third_party/gcem
+	url = https://github.com/kthohr/gcem.git
