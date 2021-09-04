@@ -8,6 +8,7 @@ This project depends on:
 - bit manipulation library - itsy_bitsy https://github.com/ThePhD/itsy_bitsy
 - reference Posit implementation - https://gitlab.com/cerlane/SoftPosit
 - Catch2 - testing framework - https://github.com/catchorg/Catch2
+- gcem - A C++ compile-time math library using generalized constant expressions - https://github.com/kthohr/gcem.git 
 # Getting code
 To get the code with neccessary dependencies use:
 ```
